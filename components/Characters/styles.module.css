@@ -1,0 +1,19 @@
+.charactersWrapper {
+  padding: 1rem 10%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  justify-items: center;
+  gap: 1rem;
+  background-color: rgb(244, 246, 239);
+  /* headerio ir footerio aukstis 200px */
+  min-height: calc(100vh - 200px);
+}
+
+.loaderWrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* headerio ir footerio aukstis 200px */
+  min-height: calc(100vh - 200px);
+}

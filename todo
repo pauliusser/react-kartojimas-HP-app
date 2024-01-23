@@ -1,0 +1,9 @@
+✔ 1. Naudojant harry-potter-characters API padaryt, kad jei veikėjo kortelė neegzistuoja turi atsirasti kita minimali nuotrauka kuri indikuotu, kad nuotrauka neegzistuoja; @done(24-01-23 23:21)
+✔ 2. Padaryt, kad kai paspaužiama ant veikėjo kotelės consolėj būtu atvaizduojamas veikėjo id; @done(24-01-23 23:25)
+✔ 3. Pridėti Spinner komponentą kuris turi būt rodomas kol duomenis nėra parsiųsti; @done(24-01-23 23:58)
+✔ 4. Padaryt, kad kai paspaudžiama ant kortelės veikėjas būtu ištrintas iš veikėjų masyvo; @done(24-01-24 00:06)
+
+☐ 1. Susikurti teksto kortelės komponentą kuris turi 2 galimus stilius. Stilių turi nusakyt paduodamas kintamasis "isImportant"(boolean);
+☐ 2. Perdaryti kortelės logiką, kad kortelė galėtu turėt 3 galimus stilius;
+☐ 3. Kiekviena atskirai sukurta kortelė ant jos paclickinus turi atlikt skirtingą veiksmą;
+☐ 4. Jei nėra perduoto veiksmo funkcijos - paspaudus ant kortelės turi atsirast log'as kuris prašro paduot funkciją kortelei;
