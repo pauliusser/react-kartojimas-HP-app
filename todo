@@ -8,11 +8,11 @@
 ✔ 3. Kiekviena atskirai sukurta kortelė ant jos paclickinus turi atlikt skirtingą veiksmą; @done(24-01-24 18:08)
 ✔ 4. Jei nėra perduoto veiksmo funkcijos - paspaudus ant kortelės turi atsirast log'as kuris prašro paduot funkciją kortelei; @done(24-01-24 18:08)
 
-☐ 7. Sukurti mobile navbar;
-☐ 7.1 Susikurti headerio komponentą;
-☐ 7.2 Headerio komponente turi būt 4 komponentai: Logo, DesktopNavbar, BurgerButton, MobileNavbar;
-☐ 7.3 @media query pagalba padaryt, kad komponentai būtu atvaizduojami tik tuomet kuomet jie reikalingi;
-☐ 7.4 Header komponente deklaruot useState kintamąjį kuris nusajo ar MobileNavbar turi būt atvaizduojamas;
-☐ 7.5 Paspaudus ant burger button MobileNavbar turi atsivaizduot;
-☐ 7.6 Kai MobileNavbar active jis turi būt ekrane, kai active yra false, jo ekrane neturi būt;
-☐ 7.7 Pridėt animacijas MobileNavbar;
+✔ 7. Sukurti mobile navbar; @done(24-01-24 23:46)
+✔ 7.1 Susikurti headerio komponentą; @done(24-01-24 23:46)
+✔ 7.2 Headerio komponente turi būt 4 komponentai: Logo, DesktopNavbar, BurgerButton, MobileNavbar; @done(24-01-24 23:46)
+✔ 7.3 @media query pagalba padaryt, kad komponentai būtu atvaizduojami tik tuomet kuomet jie reikalingi; @done(24-01-24 23:46)
+✔ 7.4 Header komponente deklaruot useState kintamąjį kuris nusajo ar MobileNavbar turi būt atvaizduojamas; @done(24-01-24 23:46)
+✔ 7.5 Paspaudus ant burger button MobileNavbar turi atsivaizduot; @done(24-01-24 23:47)
+✔ 7.6 Kai MobileNavbar active jis turi būt ekrane, kai active yra false, jo ekrane neturi būt; @done(24-01-24 23:47)
+✔ 7.7 Pridėt animacijas MobileNavbar; @done(24-01-24 23:47)
