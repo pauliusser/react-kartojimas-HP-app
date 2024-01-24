@@ -3,7 +3,16 @@
 ✔ 3. Pridėti Spinner komponentą kuris turi būt rodomas kol duomenis nėra parsiųsti; @done(24-01-23 23:58)
 ✔ 4. Padaryt, kad kai paspaudžiama ant kortelės veikėjas būtu ištrintas iš veikėjų masyvo; @done(24-01-24 00:06)
 
-☐ 1. Susikurti teksto kortelės komponentą kuris turi 2 galimus stilius. Stilių turi nusakyt paduodamas kintamasis "isImportant"(boolean);
-☐ 2. Perdaryti kortelės logiką, kad kortelė galėtu turėt 3 galimus stilius;
-☐ 3. Kiekviena atskirai sukurta kortelė ant jos paclickinus turi atlikt skirtingą veiksmą;
-☐ 4. Jei nėra perduoto veiksmo funkcijos - paspaudus ant kortelės turi atsirast log'as kuris prašro paduot funkciją kortelei;
+✔ 1. Susikurti teksto kortelės komponentą kuris turi 2 galimus stilius. Stilių turi nusakyt paduodamas kintamasis "isImportant"(boolean); @done(24-01-24 16:39)
+✔ 2. Perdaryti kortelės logiką, kad kortelė galėtu turėt 3 galimus stilius; @done(24-01-24 16:47)
+✔ 3. Kiekviena atskirai sukurta kortelė ant jos paclickinus turi atlikt skirtingą veiksmą; @done(24-01-24 18:08)
+✔ 4. Jei nėra perduoto veiksmo funkcijos - paspaudus ant kortelės turi atsirast log'as kuris prašro paduot funkciją kortelei; @done(24-01-24 18:08)
+
+☐ 7. Sukurti mobile navbar;
+☐ 7.1 Susikurti headerio komponentą;
+☐ 7.2 Headerio komponente turi būt 4 komponentai: Logo, DesktopNavbar, BurgerButton, MobileNavbar;
+☐ 7.3 @media query pagalba padaryt, kad komponentai būtu atvaizduojami tik tuomet kuomet jie reikalingi;
+☐ 7.4 Header komponente deklaruot useState kintamąjį kuris nusajo ar MobileNavbar turi būt atvaizduojamas;
+☐ 7.5 Paspaudus ant burger button MobileNavbar turi atsivaizduot;
+☐ 7.6 Kai MobileNavbar active jis turi būt ekrane, kai active yra false, jo ekrane neturi būt;
+☐ 7.7 Pridėt animacijas MobileNavbar;

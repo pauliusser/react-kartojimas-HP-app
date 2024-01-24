@@ -1,0 +1,25 @@
+.default {
+  width: 200px;
+  height: 100px;
+  border-radius: 1rem;
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.active {
+  background-color: rgb(180, 210, 180);
+  color: rgb(43, 57, 0);
+  border: 1px solid rgb(77, 152, 77);
+}
+.warning {
+  background-color: rgb(210, 200, 178);
+  color: rgb(76, 50, 0);
+  border: 1px solid rgb(255, 174, 0);
+}
+.alert {
+  background-color: rgb(210, 178, 178);
+  color: rgb(77, 0, 0);
+  border: 1px solid rgb(255, 0, 0);
+}
